@@ -58,5 +58,5 @@ printf("%s%s", "Hello", " World");
 <hr>
 
 <p align="center">
-    [코딩도장](https://dojang.io/, "Coding Dojang")) 참고
+    [코딩도장](https://dojang.io/) 참고
 </p>
