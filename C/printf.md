@@ -7,7 +7,6 @@
 ```c
 #include <stido.h>
 
-```c
 int main () {
     printf("Hello, World!");
     return 0;
