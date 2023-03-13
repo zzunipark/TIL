@@ -1,8 +1,6 @@
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=TIL&descAlignY=75&descAlign=60)
 
-<p align="center">
-    <h3>Today I Learned</h3>
-</p>
+<h3 align="center">Today I Learned</h3>
 
 <hr>
 
