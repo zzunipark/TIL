@@ -22,5 +22,5 @@ int main () {
 <hr>
 
 <p align="center">
-    [코딩도장](https://breakdance.github.io/breakdance/)
+    [코딩도장](https://dojang.io) 참고
 </p>
