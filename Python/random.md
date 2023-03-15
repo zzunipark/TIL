@@ -2,7 +2,7 @@
 
 # 무작위로 지정된 숫자 중 하나 출력하기
 
-#### ...
+#### .dddd
 ```python
 import random
 
