@@ -1,17 +1,22 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=TIL&descAlignY=75&descAlign=60)
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/zzunipark/TIL/blame/main/animation.svg" target="_blank">
+    <img src="animation.svg" style="width: 100%;">
+  </a>
+</div>
 
-<h3 align="center">Today I Learned</h3>
+#
 
-<hr>
+<a href="https://github.com/zzunipark/TIL" target="_blank">
+  <img align="left" alt="Github Link" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" />
+</a>
 
-<p align="center">
-    <Strong><br>About This Repository 🥰</Strong><br>
-</p>
+<br />
+<br />
 
-<p align="center">
-    - 그날 배운 내용을 폴더별로 파일에 저장해서 나중에 복습할 때 읽어봐요!!<br>
-    - 나중에 언젠간 도움이 되겠쥬?<br>
-    <br>
-</p>
+배운 내용을 Markdown을 사용하여 정리합니다.
 
-<hr>
+### 💻 Used Languages
+- &nbsp; Markdown
+
+### 📄 License
+- &nbsp; There is no license applied to this repository.
