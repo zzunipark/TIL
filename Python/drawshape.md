@@ -1,5 +1,3 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=TIL&descAlignY=75&descAlign=60)
-
 # 파이썬에서 Turtle 이용하여 도형 그리기
 
 #### 터틀의 기본 명령어 forward, backward, left, right, circle
