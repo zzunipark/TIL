@@ -1,4 +1,8 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=TIL&descAlignY=75&descAlign=60)
+<div style="width: 100%; text-align: center;">
+  <a href="https://github.com/zzunipark/TIL/blame/main/animation.svg" target="_blank">
+    <img src="animation.svg" style="width: 100%;">
+  </a>
+</div>
 
 # 서식 지정자(format specifier)란?
 
