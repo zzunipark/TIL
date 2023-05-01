@@ -1,9 +1,3 @@
-<div style="width: 100%; text-align: center;">
-  <a href="https://github.com/zzunipark/TIL/blame/main/animation.svg" target="_blank">
-    <img src="animation.svg" style="width: 100%;">
-  </a>
-</div>
-
 # 서식 지정자(format specifier)란?
 
 #### 서식 지정자는 printf로 문자열을 출력할 때 값으로 바뀌는 부분을 뜻합니다.
