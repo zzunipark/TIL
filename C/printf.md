@@ -1,5 +1,3 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=ffcc33&text=MinJun's%20GitHub%20&height=150&fontSize=60&desc=TIL&descAlignY=75&descAlign=60)
-
 # printf란?
 
 #### printf는 C언어에서 무언가를 출력하고 싶을 때 사용하는 하나의 함수이다.<br>다음 코드를 이용하면 Hello, World!라는 글을 출력할 수 있다.
