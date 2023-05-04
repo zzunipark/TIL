@@ -28,4 +28,4 @@ $ git config user.email
 
 <hr>
 
-다음 글 : [원격 Repository를 로컬 Repository에 연결하기](#)
+다음 글 : [원격 Repository를 로컬 Repository에 연결하기](https://github.com/zzunipark/TIL/blob/main/Git/connecting-remote.md)
