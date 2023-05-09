@@ -43,4 +43,4 @@ $ git remote add origin 링크
 
 <hr>
 
-다음 글 : [스테이징과 커밋 하기](#)
+다음 글 : [스테이징과 커밋 하기](https://github.com/zzunipark/TIL/blob/main/Git/staging-and-commit.md)
