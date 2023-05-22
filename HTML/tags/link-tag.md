@@ -18,4 +18,4 @@
 
 <hr>
 
-다음 글 : [title-tag](https://github.com/zzunipark/TIL/blob/main/HTML/title-tag.md)
+다음 글 : [title-tag](https://github.com/zzunipark/TIL/blob/main/HTML/tags/title-tag.md)

@@ -34,4 +34,4 @@
 
 <hr>
 
-다음 글 : [link-tag](https://github.com/zzunipark/TIL/blob/main/HTML/link-tag.md)
+다음 글 : [link-tag](https://github.com/zzunipark/TIL/blob/main/HTML/tags/link-tag.md)
