@@ -26,4 +26,4 @@
 
 <hr>
 
-다음 글 : [style-tag](https://github.com/zzunipark/TIL/blob/main/HTML/tags/style-tag.md)
+다음 글 : [style-tag](https://github.com/zzunipark/TIL/blob/main/HTML/tags/paragraph-tag.md)
