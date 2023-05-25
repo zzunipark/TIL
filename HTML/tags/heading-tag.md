@@ -7,14 +7,14 @@
 - `<p>` 태그와 `<h4>` 태그는 글씨 크기가 같다.
 
 ```html
-<head>
+<body>
     <h1>hi</h1>
     <h2>hi</h2>
     <h3>hi</h3>
     <h4>hi</h4>
     <h5>hi</h5>
     <h6>hi</h6>
-</head>
+</body>
 ```
 
 <h1>hi</h1>
