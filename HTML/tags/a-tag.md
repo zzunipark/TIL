@@ -6,10 +6,10 @@
 - `<a>` 태그가 없다면 <i>target, download, rel, rev, hreflang, type, referrerpolicy</i> 속성들도 사용할 수 없다.
 
 ```html
-<head>
+<body>
     <p>Click bottom</p>
     <a href="https://www.google.com">Go to google</a>
-</head>
+</body>
 ```
 
 <a href="https://www.google.com">Go to google</a><br>

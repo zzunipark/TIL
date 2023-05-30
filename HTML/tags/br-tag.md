@@ -5,13 +5,13 @@
 - `<br>` 태그를 사용하지 않고 줄바꿈이 바로 적용되게 하려면 `<pre>` 태그를 사용하면 된다.
 
 ```html
-<head>
+<body>
     <p>hi<br>hi</p>
     <pre>
         hi
         hello
     </pre>
-</head>
+</body>
 ```
 
 <p>hi<br>hi</p>
