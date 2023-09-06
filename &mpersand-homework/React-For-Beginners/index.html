@@ -7,11 +7,20 @@
 
 <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+<script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
 
-<script>
+<script type="text/babel">
     const root = document.getElementById("root")
-    const span = React.createElement("span");
-    ReactDOM.createRoot(root).render(span);
+    const Title = () => (<h3 id="title" onMouseEnter={() => console.log("mouse enter")}>Hello I'm a title</h3>);
+    const Button = () => (<button style={{
+        backgroundColor: "tomato",
+    }} onClick={() => console.log("I'm Clicked")}>Click me</button>);
+    const Container = (
+        <div>
+            <Title /><Button />
+        </div>
+    );
+    ReactDOM.render(Container, root);
 </script>
 
 </html>
