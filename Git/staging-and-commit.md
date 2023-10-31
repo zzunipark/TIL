@@ -1,6 +1,7 @@
 # 스테이징과 커밋 하기
 
 #### Git에는 Area라는 개념이 있다.
+
 - Working Area, Staging Area, Repository Area 이렇게 세가지가 있다.
 - Working Area는 내가 작업 중인 공간, 즉 스테이지에 올라가지 않은 파일들이 있는 곳이다.
 - Staging Area는 `git add`가 된 파일들이 `git commit`을 기다리는 공간이고,
@@ -59,4 +60,4 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 <hr>
 
-다음 글 : [Branch란?](https://github.com/zzunipark/TIL/blob/main/Git/what-is-branch.md)
+다음 글 : [Git-Flow란?](https://github.com/zzunipark/TIL/blob/main/Git/git-flow.md)
