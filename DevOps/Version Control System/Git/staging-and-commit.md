@@ -57,7 +57,3 @@ no changes added to commit (use "git add" and/or "git commit -a")
 <small>~~만약 오류가 난다면 오류 메시지를 가지고 폭풍 구글링을 해보도록 하자.~~</small>
 
 명령어가 성공적으로 실행되었다면, Commit과 Push가 완료된 것이다.
-
-<hr>
-
-다음 글 : [Git-Flow란?](https://github.com/zzunipark/TIL/blob/main/Git/git-flow.md)
