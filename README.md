@@ -27,4 +27,10 @@
 
 > JavaScript
 
-- [Variable](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/1. Variable.md)
+- [Variable](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/1-Variable.md)
+- [Arrays](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/2-Arrays.md)
+- [Function](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/3-Return.md)
+- [Conditionals](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/5-Conditionals.md)
+- [Bring-HTML-Element](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/6-Bring-HTML-Element.md)
+- [Events](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/7-Events.md)
+- [Interval](https://github.com/zzunipark/TIL/tree/main/FrontEnd/JavaScript/8-Interval.md)
