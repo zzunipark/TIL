@@ -49,3 +49,25 @@
 - [Styled-Component](https://github.com/zzunipark/TIL/tree/main/FrontEnd/ReactJS/10-Styled-Component.md)
 
 ## [ DevOps ]
+
+- [What is DevOps?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-Devops.md)
+
+> Learn a Programming Language - Python
+
+- [drawshape](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/drawshape.md)
+- [random](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/random.md)
+
+> Learn to Live in Terminal - Editors
+
+- [nano-basics](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Editors/nano/basics.md)
+
+> Learn to Live in Terminal - Monitoring
+
+- [Performance Monitoring / nmon](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/PerformanceMonitoring/nmon.md)
+- [Process Monitoring / ps](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/ps.md)
+- [Process Monitoring / top](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/top.md)
+- [What is Process?](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/What-is-Process.md)
+
+> Learn to Live in Terminal - Virtual Terminal
+
+- [screen](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Virtual-Terminal/screen.md)
