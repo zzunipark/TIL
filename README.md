@@ -74,10 +74,12 @@
 
 > **Networking, Security and Protocols**
 
-- [FTP](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/FTP/What-is-FTP.md)
-- [SFTP](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/SFTP/What-is-SFTP.md)
-- [HTTP](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTP/What-is-HTTP.md)
-- [HTTPS](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTPS/What-is-HTTPS.md)
+- [What is FTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/FTP/What-is-FTP.md)
+- [What is SFTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/SFTP/What-is-SFTP.md)
+- [What is HTTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTP/What-is-HTTP.md)
+- [What is HTTPS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTPS/What-is-HTTPS.md)
+- [What is DNS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/DNS/What-is-DNS.md)
+- [How DNS Works?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/DNS/How-DNS-Works.md)
 
 > **Operating Systems**
 
