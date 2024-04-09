@@ -92,3 +92,7 @@
 - [Staging and Commit](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/staging-and-commit.md)
 - [What is Branch](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/what-is-branch.md)
 - [What is Git Flow](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/git-flow.md)
+
+> **What is and How to set up?**
+
+- [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
