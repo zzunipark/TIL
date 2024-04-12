@@ -97,4 +97,4 @@
 
 - [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
 
-## [ Embeded ]
+## [ Embedded ]
