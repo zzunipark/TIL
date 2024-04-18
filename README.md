@@ -95,8 +95,10 @@
 - [What is Branch](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/what-is-branch.md)
 - [What is Git Flow](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/git-flow.md)
 
-> **What is and How to set up?**
+> **What is and How to set up? - Reverse Proxy**
 
+- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/What-is-Proxy.md)
+- [What is Reverse Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/What-is-Reverse-Proxy.md)
 - [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
 
 ## [ Embedded ]
