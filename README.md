@@ -96,6 +96,10 @@
 - [What is Branch](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/what-is-branch.md)
 - [What is Git Flow](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/git-flow.md)
 
+> **What is and How to set up? - Firewall**
+
+- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Firewall/What-is-Firewall.md)
+
 > **What is and How to set up? - Forward Proxy**
 
 - [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Forward-Proxy/What-is-Proxy.md)
