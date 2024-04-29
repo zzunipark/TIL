@@ -106,7 +106,8 @@
 
 > **What is and How to set up? - Nginx**
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Nginx/What-is-Nginx.md)
+- [What is Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Nginx/What-is-Nginx.md)
+- [How to use Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Nginx/How-to-use-Nginx.md)
 
 > **What is and How to set up? - Reverse Proxy**
 
