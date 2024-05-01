@@ -75,6 +75,7 @@
 > **Networking, Security and Protocols**
 
 - [What is FTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/FTP/What-is-FTP.md)
+- [How to use FTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/FTP/What-to-use-FTP.md)
 - [What is SFTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/SFTP/What-is-SFTP.md)
 - [What is HTTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTP/What-is-HTTP.md)
 - [What is HTTPS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTPS/What-is-HTTPS.md)
