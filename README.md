@@ -79,6 +79,7 @@
 - [What is SFTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/SFTP/What-is-SFTP.md)
 - [What is HTTP?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTP/What-is-HTTP.md)
 - [What is HTTPS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/HTTPS/What-is-HTTPS.md)
+- [What is OSI Model?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/OSI-Model/What-is-OSI-Model.md)
 - [What is DNS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/DNS/What-is-DNS.md)
 - [How DNS Works?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/DNS/How-DNS-Works.md)
 - [What is SSH?](https://github.com/zzunipark/TIL/tree/main/DevOps/Networking-Security-and-Protocols/SSH/What-is-SSH.md)
