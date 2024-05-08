@@ -100,27 +100,27 @@
 
 > **What is and How to set up? - Containers**
 
-- [What is Container?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Containers/Docker/What-is-Container.md)
-- [What is Docker?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Containers/Docker/What-is-Docker.md)
-- [What is Docker Image?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Containers/Docker/What-is-Docker-Image.md)
+- [What is Container?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Container.md)
+- [What is Docker?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker.md)
+- [What is Docker Image?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker-Image.md)
 
 > **What is and How to set up? - Firewall**
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Firewall/What-is-Firewall.md)
+- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Firewall/What-is-Firewall.md)
 
 > **What is and How to set up? - Forward Proxy**
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Forward-Proxy/What-is-Proxy.md)
+- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Proxy.md)
 
 > **What is and How to set up? - Nginx**
 
-- [What is Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Nginx/What-is-Nginx.md)
-- [How to use Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Nginx/How-to-use-Nginx.md)
+- [What is Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/What-is-Nginx.md)
+- [How to use Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/How-to-use-Nginx.md)
 
 > **What is and How to set up? - Reverse Proxy**
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/What-is-Proxy.md)
-- [What is Reverse Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/What-is-Reverse-Proxy.md)
-- [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-set-up?/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
+- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Proxy.md)
+- [What is Reverse Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Reverse-Proxy.md)
+- [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
 
 ## [ Embedded ]
