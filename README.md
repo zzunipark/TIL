@@ -106,11 +106,12 @@
 
 > **What is and How to set up? - Firewall**
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Firewall/What-is-Firewall.md)
+- [What is Firewall?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Firewall/What-is-Firewall.md)
 
 > **What is and How to set up? - Forward Proxy**
 
 - [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Proxy.md)
+- [What is Forward Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Forward-Proxy.md)
 
 > **What is and How to set up? - Nginx**
 
