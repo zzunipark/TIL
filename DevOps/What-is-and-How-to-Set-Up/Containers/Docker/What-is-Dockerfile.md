@@ -39,3 +39,33 @@ RUN /bin/bash -c `echo zzunipark`
 
 RUN ["bin/bash", "-c", "echo zzunipark"]
 ```
+
+#### CMD
+
+CMD는 컨테이너가 시작될 때 실행할 명령어를 지정하는 지시어입니다.  
+CMD도 명령어를 Shell Form 또는 Exec Form으로 작성할 수 있습니다.
+
+다만 RUN과의 차이점은
+
+> RUN은 이미지를 빌드할 때 명령어를 실행하는 지시어
+> CMD는 이미 만들어진 이미지로 컨테이너를 시작할 때 명령어를 실행하는 지시어
+
+입니다.
+
+주의해야할 점으로는 CMD를 사용할 경우 Shell Form으로 작성해야 환경변수가 불러와집니다.  
+Exec Form으로 작성할 경우 환경변수가 불러와지지 않습니다.
+
+```dockerfile
+CMD echo $HOME # 환경변수를 인식한다
+
+CMD ["echo", "$HOME"] # 환경변수를 인식하지 않고 $HOME 단어 자체로 출력한다.
+```
+
+#### ENTRYPOINT
+
+ENTRYPOINT 역시 컨테이너가 시작 될 때 실행할 명령어를 지정합니다.  
+그리고, Shell Form과 Exec Form을 둘 다 사용 가능합니다.
+
+CMD와 거의 동일하지만,
+
+**컨테이너 실행 시 Parameter 값을 대체할 수 없다는 점이 다릅니다.**
