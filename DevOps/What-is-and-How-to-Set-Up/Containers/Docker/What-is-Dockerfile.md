@@ -69,3 +69,37 @@ ENTRYPOINT 역시 컨테이너가 시작 될 때 실행할 명령어를 지정�
 CMD와 거의 동일하지만,
 
 **컨테이너 실행 시 Parameter 값을 대체할 수 없다는 점이 다릅니다.**
+
+#### LABEL
+
+Key-Value 형식으로 작성된 메타데이터를 이미지에 추가한다.
+
+```dockerfile
+LABEL <KEY>=<VALUE> <KEY>=<VALUE> ...
+```
+
+예시로 아래처럼 작성하고,
+
+```dockerfile
+LABEL "name"="zzunipark"
+LABEL "version"="1.0"
+LABEL "copyright"="zzunipark\
+all rights reserved"
+```
+
+아래 명령어를 사용하면 Label 데이터를 확인할 수 있다.
+
+```bash
+$ docker image inspect --format='' image_name
+```
+
+#### ENV
+
+ENV는 환경변수를 설정하는 지시어이다.  
+Label과 사용법이 동일하며, (Key-Value 형식) Label은 메타데이터를, ENV는 환경변수를 설정한다.
+
+```dockerfile
+ENV NAME="zzunipark"
+```
+
+#### EXPOSE
