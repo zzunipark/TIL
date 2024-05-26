@@ -103,3 +103,28 @@ ENV NAME="zzunipark"
 ```
 
 #### EXPOSE
+
+EXPOSE는 컨테이너가 실행될 때 들어오는 트래픽을 특정 포트로 지정하는 지시어이다.
+
+```dockerfile
+EXPOSE <PORT>/<PROTOCOL>
+```
+
+형식이며, TCP 30000 포트로 지정하고 싶은 경우 아래와 같이 작성하면 된다.
+
+```dockerfile
+EXPOSE 30000/tcp
+```
+
+#### COPY
+
+Host 내의 파일 또는 디렉터리를 컨테이너의 파일 시스템으로 복사할 때 사용하는 지시어이다.  
+아래 형식에 맞게 사용하면 된다.
+
+```dockerfile
+COPY [--chown=<USER>:<GROUP>] <source> <destination>
+```
+
+```dockerfile
+COPY [--chown=zzunipark:zzunipark] test.txt /zzunipark/
+```
