@@ -128,3 +128,12 @@ COPY [--chown=<USER>:<GROUP>] <source> <destination>
 ```dockerfile
 COPY [--chown=zzunipark:zzunipark] test.txt /zzunipark/
 ```
+
+#### ADD
+
+ADD 역시 파일 또는 디렉토리를 컨테이너에 복사하는 지시어이다.  
+COPY와 거의 동일하나 차이점으로는 ADD는 Host 내에 있는 파일 외에도 URL을 지정하여 원격 파일 또는 디렉토리를 복사해올 수 있다는 점이 다르다.
+
+```dockerfile
+ADD https://www.test.com/robots.txt /zzunipark/
+```
