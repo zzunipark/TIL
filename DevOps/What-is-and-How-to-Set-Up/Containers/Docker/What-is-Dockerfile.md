@@ -137,3 +137,15 @@ COPY와 거의 동일하나 차이점으로는 ADD는 Host 내에 있는 파일 
 ```dockerfile
 ADD https://www.test.com/robots.txt /zzunipark/
 ```
+
+#### USER
+
+컨테이너 내에서 명령을 실행할 유저명과 유저그룹을 지정한다.  
+기본적으로 컨테이너는 root 계정으로 명령을 실행하는데, 이를 사용자 계정으로 바꾸기 위해 이 지시어를 사용한다.
+
+```dockerfile
+USER <user>[:<GROUP>]
+USER <UID>[:<GID>]
+```
+
+위와 같이 사용자명, 그룹명으로 지정하거나 UserID, GroupID로 지정할수도 있다.
