@@ -149,3 +149,25 @@ USER <UID>[:<GID>]
 ```
 
 위와 같이 사용자명, 그룹명으로 지정하거나 UserID, GroupID로 지정할수도 있다.
+
+#### WORKDIR
+
+작업 디렉토리를 설정하는 지시어이다.
+
+```dockerfile
+WORKDIR /home/zzunipark
+```
+
+만약 디렉토리가 존재하지 않을 경우 생성하여 이동한다.
+
+#### VOLUME
+
+VOLUME은 컨테이너 내의 특정 디렉토리를 외부 경로에 마운트 시켜주는 지시어이다.  
+컨테이너 내부 데이터는 보통 컨테이너가 삭제되면 완전히 삭제되버리는데, 컨테이너가 삭제되어도 데이터가 보존될 수 있도록 외부 불륨에도 마운트 시켜주는 지시어가 바로 이것이다.
+
+```dockerfile
+VOLUME ["/var/www/data"]
+```
+
+`/var/lib/docker/volumes/{VOLUME_NAME}`
+경로로 자동으로 마운트된다.
