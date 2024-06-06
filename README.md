@@ -52,6 +52,14 @@
 
 - [What is DevOps?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-Devops.md)
 
+> **Infrastructure Provisioning**
+
+- [What is IaC?](https://github.com/zzunipark/TIL/tree/main/DevOps/Infrastructure-Provisioning/What-is-iac.md)
+
+> **Infrastructure Provisioning - Terraform**
+
+- [What is Terraform?](https://github.com/zzunipark/TIL/tree/main/DevOps/Infrastructure-Provisioning/Terraform/What-is-Terraform.md)
+
 > **Learn a Programming Language - Python**
 
 - [drawshape](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/drawshape.md)
