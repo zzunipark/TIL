@@ -32,3 +32,19 @@ Terraform은 하시코프에서 오픈소스로 개발중인 인프라스트럭�
 > 적용
 
 - 테라폼 프로젝트 내 모든 tf 내용을 수행
+
+## 사용 관리 툴
+
+> CDKFT
+
+- Cloud Development Kit for Terraform
+- 프로그래밍 언어를 사용하여 클라우드 어플리케이션 리소스를 모델링 및 프로비저닝 할 수 있는 도구
+
+> VSCode
+
+- Visual Studio Code
+- Terraform 언어 확장팩을 이용하여 VSCode에서 코드 편집 가능
+
+> Console
+
+- 복잡한 상태 데이터 또는 Terraform 표현식으로 작업할 때 사용됨
