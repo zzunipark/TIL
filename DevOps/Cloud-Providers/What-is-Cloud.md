@@ -24,3 +24,23 @@
 
 - 기업이 직접 클라우드 서비스를 구축하고, 계열사 또는 고객사에만 제공
 - 정부기관이나 대규모 기업에서 사용하는 방식
+
+## 클라우드의 핵심 서비스
+
+> IaaS (Infrastructure as a Service)
+
+- 클라우드의 가장 기본적인 제공 형태
+- 서버, 스토리지, 네트워크 장비, 운영체제 등을 임대해주는 서비스
+
+> PaaS (Platform as a Service)
+
+- 인프라와 IT 기술을 임대해주고, 다양한 지원 서비스도 함께 제공함
+
+> SaaS (Sofrware as a Service)
+
+- 인프라나 플랫폼 뿐만 아니라 어플리케이션도 제공함
+
+> EaaS (Everything on a Service)
+
+- IaaS, PaaS, SaaS 세가지를 통틀어 칭하는 말
+- XaaS라고도 하며, AWS가 이에 해당한다.
