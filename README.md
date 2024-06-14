@@ -59,6 +59,7 @@
 > **Cloud Providers - AWS**
 
 - [What is AWS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Cloud-Providers/AWS/What-is-AWS.md)
+- [AWS Basics](https://github.com/zzunipark/TIL/tree/main/DevOps/Cloud-Providers/AWS/AWS-Basics.md)
 
 > **Infrastructure Provisioning**
 
