@@ -58,6 +58,13 @@
 
 > **Cloud Providers - AWS**
 
+- ### EC2
+
+  - [Components of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Components-of-EC2.md)
+  - [Feature of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Feature-of-EC2.md)
+  - [Usage of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Usage-of-EC2.md)
+  - [What is EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/What-is-EC2.md)
+
 - [What is AWS?](https://github.com/zzunipark/TIL/tree/main/DevOps/Cloud-Providers/AWS/What-is-AWS.md)
 - [AWS Basics](https://github.com/zzunipark/TIL/tree/main/DevOps/Cloud-Providers/AWS/AWS-Basics.md)
 
@@ -65,29 +72,32 @@
 
 - [What is IaC?](https://github.com/zzunipark/TIL/tree/main/DevOps/Infrastructure-Provisioning/What-is-iac.md)
 
-> **Infrastructure Provisioning - Terraform**
+- ### Terraform
+  - [What is Terraform?](https://github.com/zzunipark/TIL/tree/main/DevOps/Infrastructure-Provisioning/Terraform/What-is-Terraform.md)
 
-- [What is Terraform?](https://github.com/zzunipark/TIL/tree/main/DevOps/Infrastructure-Provisioning/Terraform/What-is-Terraform.md)
+> **Learn a Programming Language**
 
-> **Learn a Programming Language - Python**
+- ### Python
+  - [drawshape](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/drawshape.md)
+  - [random](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/random.md)
 
-- [drawshape](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/drawshape.md)
-- [random](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-a-Programming-Language/Python/random.md)
+> **Learn to Live in Terminal**
 
-> **Learn to Live in Terminal - Editors**
+- ### Editors
 
-- [nano-basics](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Editors/nano/basics.md)
+  - [nano-basics](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Editors/nano/basics.md)
 
-> **Learn to Live in Terminal - Monitoring**
+- ### Monitoring
 
-- [Performance Monitoring / nmon](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/PerformanceMonitoring/nmon.md)
-- [Process Monitoring / ps](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/ps.md)
-- [Process Monitoring / top](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/top.md)
-- [What is Process?](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/What-is-Process.md)
+  - [Performance Monitoring / nmon](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/PerformanceMonitoring/nmon.md)
 
-> **Learn to Live in Terminal - Virtual Terminal**
+  - [Process Monitoring / ps](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/ps.md)
+  - [Process Monitoring / top](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/top.md)
+  - [What is Process?](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Monitoring/ProcessMonitoring/What-is-Process.md)
 
-- [screen](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Virtual-Terminal/screen.md)
+- ### Virtual Terminal
+
+  - [screen](https://github.com/zzunipark/TIL/tree/main/DevOps/Learn-to-Live-in-Terminal/Virtual-Terminal/screen.md)
 
 > **Networking, Security and Protocols**
 
@@ -110,39 +120,43 @@
 
 - [Difference Between Linux and Unix](https://github.com/zzunipark/TIL/tree/main/DevOps/Operating-Systems/difference-between-linux-unix.md)
 
-> **Version Control System - Git**
+> **Version Control System**
 
-- [Getting-Started](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/getting-started-git.md)
-- [Connecting Remote](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/connecting-remote.md)
-- [Staging and Commit](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/staging-and-commit.md)
-- [What is Branch](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/what-is-branch.md)
-- [What is Git Flow](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/git-flow.md)
+- ### Git
 
-> **What is and How to set up? - Containers**
+  - [Getting-Started](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/getting-started-git.md)
+  - [Connecting Remote](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/connecting-remote.md)
+  - [Staging and Commit](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/staging-and-commit.md)
+  - [What is Branch](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/what-is-branch.md)
+  - [What is Git Flow](https://github.com/zzunipark/TIL/tree/main/DevOps/Version-Control-System/Git/git-flow.md)
 
-- [What is Container?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Container.md)
-- [What is Docker?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker.md)
-- [What is Docker Image?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker-Image.md)
-- [What is Dockerfile?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Dockerfile.md)
+> **What is and How to set up?**
 
-> **What is and How to set up? - Firewall**
+- ### Containers
 
-- [What is Firewall?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Firewall/What-is-Firewall.md)
+  - [What is Container?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Container.md)
+  - [What is Docker?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker.md)
+  - [What is Docker Image?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Docker-Image.md)
+  - [What is Dockerfile?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Containers/Docker/What-is-Dockerfile.md)
 
-> **What is and How to set up? - Forward Proxy**
+- ### Firewall
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Proxy.md)
-- [What is Forward Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Forward-Proxy.md)
+  - [What is Firewall?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Firewall/What-is-Firewall.md)
 
-> **What is and How to set up? - Nginx**
+- ### Forward Proxy
 
-- [What is Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/What-is-Nginx.md)
-- [How to use Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/How-to-use-Nginx.md)
+  - [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Proxy.md)
+  - [What is Forward Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Forward-Proxy/What-is-Forward-Proxy.md)
 
-> **What is and How to set up? - Reverse Proxy**
+- ### Nginx
 
-- [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Proxy.md)
-- [What is Reverse Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Reverse-Proxy.md)
-- [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
+  - [What is Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/What-is-Nginx.md)
+  - [How to use Nginx?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Nginx/How-to-use-Nginx.md)
+
+- ### Reverse Proxy
+
+  - [What is Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Proxy.md)
+  - [What is Reverse Proxy?](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/What-is-Reverse-Proxy.md)
+  - [Using Reverse Proxy to Solve Proxmox CORS Problem](https://github.com/zzunipark/TIL/tree/main/DevOps/What-is-and-How-to-Set-Up/Reverse-Proxy/Using-Reverse-Proxy-to-Solve-Proxmox-CORS.md)
 
 ## [ Embedded ]
