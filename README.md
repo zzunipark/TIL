@@ -58,6 +58,11 @@
 
 > **Cloud Providers - AWS**
 
+- ### EBS
+
+  - [What-is-EBS](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EBS/What-is-EBS.md)
+  - [What-is-Snapshot](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EBS/What-is-Snapshot.md)
+
 - ### EC2
 
   - [Components of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Components-of-EC2.md)
