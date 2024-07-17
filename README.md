@@ -58,6 +58,10 @@
 
 > **Cloud Providers - AWS**
 
+- ### AMI
+
+  - [What-is-AMI](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/AMI/What-is-AMI.md)
+
 - ### EBS
 
   - [What-is-EBS](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EBS/What-is-EBS.md)
