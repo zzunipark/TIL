@@ -72,6 +72,7 @@
   - [Components of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Components-of-EC2.md)
   - [EBS](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/EBS.md)
   - [Feature of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Feature-of-EC2.md)
+  - [Lifecycle of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Lifecycle-of-EC2.md)
   - [PriceModel of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/PriceModel-of-EC2.md)
   - [Snapshot](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Snapshot.md)
   - [Type of EC2](https://github.com/zzunipark/TIL/tree/main/Devops/Cloud-Providers/AWS/EC2/Type-of-EC2.md)
